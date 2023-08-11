@@ -1,0 +1,18 @@
+.thumbnail-item {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.image-btn {
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.thumbnail {
+  width: 100px;
+  height: 100px;
+  margin: 6px;
+}
